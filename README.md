@@ -21,6 +21,9 @@
 
 This application was designed to help users utilize the "Pomodoro Technique." A technique used to allocate specific periods of time to focusing on a given task. Users can select from 10, 15, or 20 minute increments. Once the period has ended, users can take a break or restart the timer for another period of distraction free work!
 
+<img width="430" alt="Screen Shot 2022-12-28 at 7 10 09 PM" src="https://user-images.githubusercontent.com/86761275/209900162-4cc15559-c3b2-48cc-ba55-b54d834a10fb.png">
+<img width="417" alt="Screen Shot 2022-12-28 at 7 11 57 PM" src="https://user-images.githubusercontent.com/86761275/209900163-ea02e25f-04e3-4e33-92c5-856b00612d26.png">
+
 ## Setup/Installation Requirements
 
 **Cloning**
