@@ -4,10 +4,6 @@
 
 #### By Ryan Spencer
 
-### _Link to GitHub Repository_
-
-- https://github.com/ryan-spencer1220/focus-time
-
 ## Technologies Used
 
 - React Native/JavaScript
